@@ -11,7 +11,7 @@ PyTorch로 Transformer 아키텍처를 처음부터 구현하며 원리를 이�
 ## 진행 상황
 
 - [x] 1단계: PyTorch 기초
-- [ ] 2단계: Attention 메커니즘
+- [x] 2단계: Attention 메커니즘
 - [ ] 3단계: Multi-Head Attention
 - [ ] 4단계: Positional Encoding
 - [ ] 5단계: Transformer 블록
